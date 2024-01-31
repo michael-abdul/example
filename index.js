@@ -1,7 +1,7 @@
 //  Module package CORE => node.js ni ichiga install qilib berilgan packagelar modeullar
 setTimeout(function(){
  console.log("ishga tushdi");
-},5000); // 2ta parametr oladi: 1-function, 2-Time ni oladi
+},1000); // 2ta parametr oladi: 1-function, 2-Time ni oladi
 let number = 0;
 setInterval(() => {
     console.log("hisob" , number);
